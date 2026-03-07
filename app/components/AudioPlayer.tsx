@@ -97,7 +97,7 @@ export default function Player({ listMusic }: any) {
             </div>
             <div className='flex justify-center py-4'>
                 <Image
-                    src='/images/photo.jpg'
+                    src='/images/back.png'
                     alt='images'
                     width={250}
                     height={250}
